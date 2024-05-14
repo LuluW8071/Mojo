@@ -28,7 +28,7 @@ Follow the instructions in the [official documentation](https://docs.modular.com
 
 ```sh
 # Example installation command
-curl -fsSL https://docs.modular.com/mojo/install.sh | sh
+curl -s https://get.modular.com | sh -
 ```
 
 After installing the SDK, you can verify the installation by running:
