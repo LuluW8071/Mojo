@@ -1,0 +1,16 @@
+# Printing "Hello Mojo!" in a mojo file 
+# The file extenstion can be named .mojo or .🔥 and to run it
+
+""" $ mojo file_name.mojo """
+""" $ mojo file_name.🔥 """
+
+# (function) main
+fn main():
+    print("Hello Mojo!🔥")
+    print("Hello World!")
+
+# ==================
+# Output:
+# ==================
+# Hello Mojo!
+# Hello World!
