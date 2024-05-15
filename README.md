@@ -27,7 +27,6 @@ To get started with Mojo, you need to install the Mojo SDK and set up your devel
 Follow the instructions in the [official documentation](https://docs.modular.com/mojo/manual/get-started/index.html) to install the Mojo SDK.
 
 ```sh
-# Example installation command
 curl -s https://get.modular.com | sh -
 ```
 
