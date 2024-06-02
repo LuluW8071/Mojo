@@ -4,10 +4,8 @@ If a condition satisfies execute the following arguments/statements
 Else execute other arguments/statements.
 """
 
-from python import Python
 
 fn main() raises:
-    var py = Python.import_module('builtins')
     var x_int = 123
 
     var y: Float32 = 3.14
